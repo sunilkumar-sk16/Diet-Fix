@@ -1,0 +1,51 @@
+/* img{
+    width: auto;
+    padding-right: 2px;
+    height: 125px;
+}
+
+.imagesp{
+    padding-left: 75px;
+     background-color: yellow; 
+    border-right: 5px solid black;
+}
+
+.img1,.img2{
+    width: 128px;
+    padding-bottom: 3px;
+}
+
+.text{
+     background-color: rgb(255, 255, 74); 
+    font-style: italic;
+}*/
+
+
+
+.carousel-fade{
+    background-color: #b9fff3;
+}
+
+img{
+    /* border: 5px solid rgb(19, 177, 177); */
+    width: 854px;
+    height: 480px;
+    padding: 5px;
+}
+.text{
+    background-color: #61e7d1;
+    font-style: italic;
+}
+.button{
+    background-color: #b9fff3;
+}
+
+.btn{
+    background-color: rgb(54, 52, 52);
+    
+}
+
+a{
+    text-decoration: none;
+    
+}
